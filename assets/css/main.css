@@ -1,0 +1,19 @@
+.card{
+    height: auto;
+    width: 300px; 
+}
+
+.circle{
+    background: red;
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    display: flex;
+    
+}
+
+.chu-p{
+    height: 50px;
+    width: 50px;
+    margin: 50px;
+}
